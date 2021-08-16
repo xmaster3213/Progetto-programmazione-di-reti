@@ -1,0 +1,1 @@
+Tutte le informazioni su come lanciare l'applicazione e su come utilizzarla sono scritte all'interno della relazione.
